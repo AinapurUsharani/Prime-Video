@@ -1,0 +1,21 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+}
+.Action-movies {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  width: 100%;
+  margin: 0px;
+}
+.logo-image {
+  height: 150px;
+}
+.main-heading {
+  font-size: 26px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin-left: 30px;
+  margin-bottom: 0px;
+}
